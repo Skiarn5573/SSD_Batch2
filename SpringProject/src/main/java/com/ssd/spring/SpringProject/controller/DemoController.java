@@ -16,4 +16,8 @@ public class DemoController {
 		return "Welcome to world";
 	}
 	
+	public  String print() {
+		return "Haiiii";
+	}
+	
 }
